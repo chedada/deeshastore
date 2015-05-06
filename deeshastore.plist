@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://52cdd.com:8080/deeshastore/DeeshaStore.ipa</string>
+					<string>http://61.132.35.147:9002/es/upload/Iphone/Deesha/DeeshaStore.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://52cdd.com:8080/deeshastore/uhui_icon.png</string>
+					<string>http://61.132.35.147:9002/es/upload/Iphone/Deesha/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,19 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://52cdd.com:8080/deeshastore/uhui_icon.png</string>
+					<string>http://61.132.35.147:9002/es/upload/Iphone/Deesha/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>New item</key>
-				<string></string>
 				<key>bundle-identifier</key>
 				<string>com.esa.deeshastore</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.8.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>笛莎门店</string>
+				<string>笛莎门店助手 v1.8.0</string>
 			</dict>
 		</dict>
 	</array>
